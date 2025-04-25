@@ -42,7 +42,7 @@ This script takes the user’s first and last name as input, combines them into 
 
 To run the scripts:
 
-1. Make sure Python 3.13.1 (tested) is installed on your system.
+1. Make sure Python 3.x (tested on 3.13.1) is installed on your system.
 2. Clone this repository or download the `.py` files.
 3. Run each script in your terminal or code editor (From root directory):
 
